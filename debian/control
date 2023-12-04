@@ -1,0 +1,17 @@
+Source: radxa-plymouth-theme
+Maintainer: "Panda" <panda@radxa.com>
+Section: admin
+Priority: standard
+Standards-Version: 4.6.0
+Build-Depends: debhelper (>=12~),
+               devscripts,
+               lintian
+
+Package: radxa-plymouth-theme
+Architecture: all
+Section: admin
+Priority: standard
+Depends: plymouth,
+         ${misc:Depends},
+Description: Radxa plymouth theme
+ Radxa plymouth theme based on dark-arch theme

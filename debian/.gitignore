@@ -1,0 +1,7 @@
+/.debhelper
+/debhelper-build-stamp
+/files
+/radxa-plymouth-them*/
+/*.debhelper.log
+/*.postrm.debhelper
+/*.substvars

@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Radxa
+Description=The Radxa theme inspired by KDE Breeze
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/radxa
+ScriptFile=/usr/share/plymouth/themes/radxa/script
