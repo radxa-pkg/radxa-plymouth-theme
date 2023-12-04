@@ -13,5 +13,5 @@ Section: admin
 Priority: standard
 Depends: plymouth,
          ${misc:Depends},
-Description: Radxa plymouth theme
- Radxa plymouth theme based on dark-arch theme
+Description: Radxa's plymouth theme
+ The theme is based on the dark-arch theme
